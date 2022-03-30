@@ -50,6 +50,7 @@ li {
 li:hover {
   color: dimgrey;
   cursor: pointer;
+  transition: 5s;
 }
 
 .card {
